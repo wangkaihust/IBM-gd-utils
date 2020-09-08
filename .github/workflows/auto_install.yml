@@ -1,6 +1,6 @@
 name: IBM Cloud Auto Install
 
-on:
+on: 
   workflow_dispatch:
     inputs:
 
